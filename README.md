@@ -17,7 +17,7 @@
 <br>
 
 ![header-picture](./public/images/colourpencils.png)
-_Sharpen your pencils, we're getting creative!_
+_Sharpen your pencils, we're getting creative from here!_
 
 Hello and welcome to Animation Nation, a ZTM project for Hacktoberfest! This site aims to showcase the creative talents of the ZTM community :)
 
